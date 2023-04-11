@@ -22,7 +22,7 @@ body {
     
     display: flex;
     flex-direction: column;
-    border: 2px solid rgb(17, 15, 15);
+    border: 2px solid rgb(19, 17, 17);
     width: 50rem;
     height: 50rem;
     justify-content: center;
